@@ -12,6 +12,7 @@
 * [新增服务器](xin-zeng-fu-wu-qi.md)
 * [创建模板](chuang-jian-mo-ban.md)
 * [导入镜像](dao-ru-jing-xiang.md)
+* [正在导入镜像](zheng-zai-dao-ru-jing-xiang.md)
 
 ## three
 
