@@ -10,6 +10,7 @@
 * [管理员登录](123.md)
 * [首页](111.md)
 * [新增服务器](xin-zeng-fu-wu-qi.md)
+* [创建模板](chuang-jian-mo-ban.md)
 
 ## three
 
