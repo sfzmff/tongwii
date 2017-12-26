@@ -21,6 +21,7 @@
 * [配置存储](pei-zhi-cun-chu.md)
 * [虚拟机管理](xu-ni-ji-guan-li.md)
 * [模板管理](mo-ban-guan-li.md)
+* [虚拟池管理](xu-ni-chi-guan-li.md)
 
 ## three
 
