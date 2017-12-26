@@ -23,6 +23,7 @@
 * [模板管理](mo-ban-guan-li.md)
 * [虚拟池管理](xu-ni-chi-guan-li.md)
 * [服务器管理](fu-wu-qi-guan-li.md)
+* [普通用户登录](pu-tong-yong-hu-deng-lu.md)
 
 ## three
 
