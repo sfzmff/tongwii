@@ -16,6 +16,7 @@
 * [编辑模板](bian-ji-mo-ban.md)
 * [准备并测试模板](zhun-bei-bing-ce-shi-mo-ban.md)
 * [创建桌面池](chuang-jian-zhuo-mian-chi.md)
+* [配置虚拟池信息](pei-zhi-xu-ni-chi-xin-xi.md)
 
 ## three
 
