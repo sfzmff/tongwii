@@ -20,6 +20,7 @@
 * [配置虚拟池策略](pei-zhi-xu-ni-chi-ce-lve.md)
 * [配置存储](pei-zhi-cun-chu.md)
 * [虚拟机管理](xu-ni-ji-guan-li.md)
+* [模板管理](mo-ban-guan-li.md)
 
 ## three
 
