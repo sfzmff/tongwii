@@ -18,6 +18,7 @@
 * [创建桌面池](chuang-jian-zhuo-mian-chi.md)
 * [配置虚拟池信息](pei-zhi-xu-ni-chi-xin-xi.md)
 * [配置虚拟池策略](pei-zhi-xu-ni-chi-ce-lve.md)
+* [配置存储](pei-zhi-cun-chu.md)
 
 ## three
 
